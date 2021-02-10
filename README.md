@@ -1,5 +1,5 @@
 # Project Description
-An application which is designed to generate a bill and to store the invoice of the customers. An individual can register ,login ,add a customer ,add a product ,view recent activities in the dashboard and generate a bill as well as invoicing the customers for the services and products.
+An application which is designed to generate a bill and to download the invoice of the customers. An individual can register ,login ,add a customer ,add a product ,view recent activities in the dashboard and generate a bill as well as invoicing the customers for the services and products.
 
 # Project's Live Link
 https://billings-application.herokuapp.com/
