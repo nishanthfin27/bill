@@ -1,3 +1,8 @@
+# Project Description
+This is a billing-application here user can perform CRUD operations of Customers and Products and also can generate a bill for the selected customers and products as well as download the invoice.
+
+# Project Description
+Live Link - https://billings-application.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
